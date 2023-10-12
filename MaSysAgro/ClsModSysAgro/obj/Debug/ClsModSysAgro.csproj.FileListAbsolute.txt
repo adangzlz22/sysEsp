@@ -25,3 +25,7 @@ C:\Users\AdanGlez\Documents\PERSONAL\SysAgro\MaSysAgro\ClsModSysAgro\bin\Debug\C
 C:\Users\AdanGlez\Documents\PERSONAL\SysAgro\MaSysAgro\ClsModSysAgro\obj\Debug\ClsModSysAgro.csproj.CoreCompileInputs.cache
 C:\Users\AdanGlez\Documents\PERSONAL\SysAgro\MaSysAgro\ClsModSysAgro\obj\Debug\ClsModSysAgro.dll
 C:\Users\AdanGlez\Documents\PERSONAL\SysAgro\MaSysAgro\ClsModSysAgro\obj\Debug\ClsModSysAgro.pdb
+<<<<<<< HEAD
+=======
+C:\Users\AdanGlez\Documents\PERSONAL\SysAgro\MaSysAgro\ClsModSysAgro\obj\Debug\ClsModSysAgro.csproj.AssemblyReference.cache
+>>>>>>> e51c77cda878969436378a409aa7d1f91679dfb3

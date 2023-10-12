@@ -108,12 +108,17 @@
 
                     arrProject.map((v, index) => {
                         items.push(
+<<<<<<< HEAD
                             `<div class="col-lg-3 col-sm-12 col-md-4 mb-3">
+=======
+                            `<div class="col-lg-3 col-sm-12 col-md-4 mb-3" style="height:100%">
+>>>>>>> e51c77cda878969436378a409aa7d1f91679dfb3
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12" style="text-align:right">
 <button style="display:none;" data-tipo="1" class="btn btn-danger CloseButton" id="btnEliminar${v.ProjectID}"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
 </div>
 </div>
+<<<<<<< HEAD
                                  <a href="Mapa?projectId=${v.ProjectID}">
                                     <div class="card box" style="border: 1px solid #7ab37f; height:200px;text-align:left">
                                         <div class="card-body mt-5 mb-5 text-left">
@@ -132,6 +137,23 @@
                                         </div>
                                     </div></a>
                             </div>  `);
+=======
+
+                                    <div class="card box" style="border: 1px solid #7ab37f; height:200px;">
+                                        <div class="card-body mt-5 mb-5 text-left">
+                                <a href="Mapa?projectId=${v.ProjectID}">
+                                            <img src="/Content/img/ubicacion.png" style="width:50px" class="mb-3" />
+                                </a>
+                                            <br />
+                                            <h2 style="color:#7ab37f; font-size:30px" class='projectNameText'>${v.ProjectName}</h2>
+                                            <input id="txtProjectName${v.ProjectID}" type='text' class='form-control projectName' value='${v.ProjectName}' style='display:none;'>
+<a href="#" id="btnCambiarNombre${v.ProjectID}" class="btn btn-success btnprojectName" style="padding: .3rem .9rem; font-size: 18px; display: none; font-weight:800"><b><i class="fa-solid fa-save"></i></b></a>
+                                          
+                                            <!--<h4>Short project description</h4>-->
+                                        </div>
+                                    </div>
+                            </div>`);
+>>>>>>> e51c77cda878969436378a409aa7d1f91679dfb3
                     });
 
                     divProyectos.append(items.join(''));

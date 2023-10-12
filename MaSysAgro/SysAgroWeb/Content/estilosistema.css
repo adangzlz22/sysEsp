@@ -53648,6 +53648,7 @@ thead tr:nth-child(3) th {
 #button-14 .checkbox:checked ~ .layer {
     background-color: #7ab37f2e;
 }
+<<<<<<< HEAD
 
 @media screen and (min-width: 576px) {
 
@@ -53674,4 +53675,6 @@ thead tr:nth-child(3) th {
         display: none !important
     }
 }
+=======
+>>>>>>> e51c77cda878969436378a409aa7d1f91679dfb3
 

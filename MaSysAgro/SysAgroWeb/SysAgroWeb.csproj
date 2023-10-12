@@ -2513,7 +2513,10 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\jszip.js" />
     <Content Include="Scripts\js\Global.js" />
+<<<<<<< HEAD
     <Content Include="Scripts\js\Home\AdminController.js" />
+=======
+>>>>>>> e51c77cda878969436378a409aa7d1f91679dfb3
     <Content Include="Scripts\js\Home\DevicesControllers.js" />
     <Content Include="Scripts\js\Home\IndexController.js" />
     <Content Include="Scripts\js\Home\MapaController.js" />

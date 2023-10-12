@@ -47,8 +47,11 @@
     <Compile Include="Project\paramsProject.cs" />
     <Compile Include="Project\resultProject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="Ubicacion\paramsUbicacion.cs" />
     <Compile Include="Ubicacion\resultPaises.cs" />
+=======
+>>>>>>> e51c77cda878969436378a409aa7d1f91679dfb3
     <Compile Include="Usuarios\genUsuarios.cs" />
     <Compile Include="Usuarios\paramsUsuarioDTO.cs" />
     <Compile Include="Usuarios\UsuarioDTO.cs" />
